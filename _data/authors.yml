@@ -1,16 +1,8 @@
-# Sample Authors
-# Remove file or replace with your own
+Sunghwan Kim:
+  name: Sunghwan Kim
+  picture: /images/sunghwankim.jpg
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+Junyeong Park:
+  name: Junyeong Park
+  picture: /images/junyeongpark.jpg
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
